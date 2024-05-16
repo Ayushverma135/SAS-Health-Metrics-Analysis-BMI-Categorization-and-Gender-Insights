@@ -17,8 +17,8 @@ Additionally, the project utilizes macros to generate frequency tables and repor
 
 ## Project Structure
 - **Data**: Contains Excel sheets with individual statistics and health metrics in [Input_Datasets]() dataset.
-- **Code**: SAS [Solution.txt]() code files for data importing, BMI calculation, categorization, visualization, and frequency table generation.
-- **Outputs**: [Results_ Solution 1.sas]() Output file including pie charts, frequency tables, and reports.
+- **Code**: SAS [Solution 1.sas]() code files for data importing, BMI calculation, categorization, visualization, and frequency table generation.
+- **Outputs**: [Results_ Solution 1.sas.pdf]() Output file including pie charts, frequency tables, and reports.
 - **README.md**: Project overview, structure, and instructions.
 
 ## Project Workflow
