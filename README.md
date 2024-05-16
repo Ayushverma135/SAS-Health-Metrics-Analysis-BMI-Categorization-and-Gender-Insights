@@ -75,4 +75,4 @@ Sure, here are the steps broken down:
 
 # Support the Project
 ### If you find this project helpful and would like to support my work, consider sponsoring my GitHub profile. Your sponsorship helps maintain and improve projects like these. 
-### And if you are interested in receiving a video solution for this project or have any further inquiries, please feel free to contact me via email at [ayushuv135@gmail.com]<a href="mailto:ayushuv135@gmail.com"></a>. I'll be happy to assist you further.
+### And if you are interested in receiving a video solution for this project or have any further inquiries, please feel free to contact me via email at ayushuv135@gmail.com<a href="mailto:ayushuv135@gmail.com"></a>. I'll be happy to assist you further.
